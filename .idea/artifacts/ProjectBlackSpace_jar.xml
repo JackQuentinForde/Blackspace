@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ProjectBlackSpace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectBlackSpace_jar</output-path>
+    <root id="archive" name="ProjectBlackSpace.jar">
+      <element id="module-output" name="ProjectBlackSpace" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mod/marytts-5.1.2/lib/voice-cmu-slt-hsmm-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mod/marytts-5.1.2/lib/marytts-lang-en-5.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mod/marytts-5.1.2/lib/marytts-runtime-5.1.2-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/libs" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/mod/LWJGL/jar/lwjgl.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

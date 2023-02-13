@@ -1,0 +1,71 @@
+/**CHARACTERS ARE CASE SENSITIVE**/
+
+@ = player spawn point
+$ = end of level
+
+//Floor Surfaces
+h = hard floor
+l = leaves
+G = gravel
+w = water
+m = metal
+
+//Walls
+| = wall
+- = wall
+\ = wall
+/ = wall
+
+//Doors
+: = regular door
+= = regular door (middle)
+
+1 = red door
+! = red door (middle)
+
+2 = blue door
+% = blue door (middle)
+
+3 = yellow door
+& = yellow door (middle)
+
+//Items
++ = health
+# = ammo
+
+//Keys
+r = red key
+b = blue key
+y = yellow key
+
+//Stalker Enemies
+z = zombie
+d = demon
+t = troll
+g = ghost
+
+//Shooter Enemies
+s = soldier
+e = elite
+o = orc
+
+//Atmosphere
+A = airduct
+B = buzz sound
+C = computers
+D = draft sound
+E = malfunctioning computers
+F = fire sound
+H = humming servers
+M = machinery
+P = leaking water
+S = swamp
+T = thunder
+V = vacuum
+W = running water
+
+
+
+
+
+

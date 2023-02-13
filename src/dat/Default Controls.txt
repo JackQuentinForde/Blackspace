@@ -1,0 +1,14 @@
+run forward = up or w
+run backwards = down or s
+strafe right = d
+strafe left = a
+
+turn right = right
+turn left = left
+
+shoot = left control or space
+
+check ammo = e
+check health = q
+check keys = f
+find doors = c

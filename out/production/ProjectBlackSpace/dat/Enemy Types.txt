@@ -1,0 +1,48 @@
+//Stalker types
+
+zombie 'z' (Weak and slow):
+
+	hp = 100 
+	attk = 10
+	speed = 2
+
+demon 'd' (Weak and fast)
+
+	hp = 125
+	attk = 12
+ 	speed = 2.3
+
+troll 't' (Strong and slow)
+
+	hp = 200
+	attk = 20
+	speed = 1.7
+
+ghost 'g' (Strong and fast)
+
+	hp = 150
+	attk = 15;
+	speed = 2.6
+
+//Shooter types
+
+soldier 's' (Weak and innacurate)
+
+	hp = 100
+	attk = 10
+	accuracy = 50%
+
+elite 'e' (Weak and accurate)
+
+	hp = 125
+	attk = 12
+	accuracy = 70%
+
+orc 'o' (Strong and fairly accurate)
+
+	hp = 150
+	attk = 13
+	accuracy = 60%
+
+
+

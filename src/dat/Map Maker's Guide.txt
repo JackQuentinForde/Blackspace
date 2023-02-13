@@ -1,0 +1,28 @@
+There are a few rules one should follow when designing new maps. These rules are listed below in no particular oder.
+
+You should ALWAYS:
+
+- Give the length and breadth of the map on the first line of your text file.
+- Always make passages at least 5 spaces wide, remember that vertical passages will look smaller than horizontal ones
+  in the text editor.
+- Place atmospheric sounds strategically to guide the player between rooms and passages.
+- Place atmospheric sounds in font of doorways.
+- Make sure that there is always some atmospheric sound to be heard, wherever the player is.
+- Place a proportionate ammount of ammo and health pickups to the number of enemies throughout the level.
+- Make your levels fairly straight-forward to navigate, don't confuse the player.
+- place keys on the map that the player must find to move between areas.
+- Place new floor surfaces just outside of doorways when changing surfaces.
+- Have a middle character in your doors.
+- Have a clear finishing point.
+- Bear in mind that sounds can still be heard through walls.
+
+You should NEVER:
+
+- Place more than one enemy in a single room.
+- Place many atmospheric sounds in close proximity to one another.
+- Re-use atmospheric sounds in areas that are too close to one another.
+- Place enemies right behind doorways.
+
+HAVE FUN!
+
+
